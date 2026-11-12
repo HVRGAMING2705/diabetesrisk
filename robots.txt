@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Sitemap: https://diabetesrisk.vercel.app/sitemap.xml
+
