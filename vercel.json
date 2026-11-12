@@ -28,7 +28,7 @@
     },
     {
      "key": "Access-Control-Allow-Origin",
-     "value": "https://diabetesrisk.vercel.app"
+     "value": "https://diabetesrisk-lake.vercel.app"
     },
     {
      "key": "Content-Security-Policy",
